@@ -1,2 +1,2 @@
-# codsoft-calculator
+# codsoft
 first repo
